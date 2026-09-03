@@ -1,8 +1,8 @@
 {
-  "versionCode": 100138,
-  "versionName": "0.13.5.138",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.13.5.138/FACELY.apk",
-  "sha256": "1eefb48873c5d8f31f06e8056bf251bbdc7c7c53a12d1a82e0ec4734e41e4846",
-  "notes": "Corrige DAO del escaneo inteligente",
+  "versionCode": 100142,
+  "versionName": "0.13.6.142",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.13.6.142/FACELY.apk",
+  "sha256": "ac475954c99e58958ffb481ede6e78c9bb512024343bfbb3a5e46a2ff1058973",
+  "notes": "FACELY 0.13.6: fusión manual desde Personas",
   "mandatory": false
 }

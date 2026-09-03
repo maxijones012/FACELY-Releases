@@ -1,8 +1,8 @@
 {
-  "versionCode": 100161,
-  "versionName": "0.13.9.161",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.13.9.161/FACELY.apk",
-  "sha256": "a4d968fb43e0996f0fc5da56968cbc69016a6895d5554001cc9628d5ca3773ab",
-  "notes": "FACELY 0.13.9: seguridad y copia automática",
+  "versionCode": 100176,
+  "versionName": "0.14.0.176",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.0.176/FACELY.apk",
+  "sha256": "4fc27ace05f0e565ddc1a480d3aa951c04ac5f317680812f67f0881b76ec9715",
+  "notes": "FACELY 0.14.0: agrega dependencia biométrica faltante",
   "mandatory": false
 }

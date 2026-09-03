@@ -1,8 +1,8 @@
 {
-  "versionCode": 100220,
-  "versionName": "0.14.5.220",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.220/FACELY.apk",
-  "sha256": "ae137f950c67ee4643acee4900b15ec3af79dd3f683f2dbbe7e22a217fe21bac",
-  "notes": "FACELY: retira compile check temporal",
+  "versionCode": 100223,
+  "versionName": "0.14.5.223",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.223/FACELY.apk",
+  "sha256": "396cabd13b40e87d151b4e688adb2ba1f7828d342afd447974829350d4efc007",
+  "notes": "FACELY: permite sacar foto para búsqueda facial",
   "mandatory": false
 }

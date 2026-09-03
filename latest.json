@@ -1,8 +1,8 @@
 {
-  "versionCode": 100209,
-  "versionName": "0.14.5.209",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.209/FACELY.apk",
-  "sha256": "d949a51cf2526ecedbba102b208c9721770ab2f2fe0842b2e86d623e1ae57997",
-  "notes": "FACELY 0.14.5: corrige verificación robusta de firma APK",
+  "versionCode": 100210,
+  "versionName": "0.14.5.210",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.210/FACELY.apk",
+  "sha256": "eb58211f13e0bfcece47fdfe4d5312a1b2e647fc4cce88258e7395d5789ba3c4",
+  "notes": "FACELY: valida y serializa copias automáticas",
   "mandatory": false
 }

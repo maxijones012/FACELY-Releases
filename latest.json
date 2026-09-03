@@ -1,8 +1,8 @@
 {
-  "versionCode": 100202,
-  "versionName": "0.14.4.202",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.4.202/FACELY.apk",
-  "sha256": "d33ee19b784875ccbbc68bebbc0f56ac482ce327e1758e306478aa86821f4016",
-  "notes": "FACELY 0.14.4: habilita anuncios reales en CI",
+  "versionCode": 100209,
+  "versionName": "0.14.5.209",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.209/FACELY.apk",
+  "sha256": "d949a51cf2526ecedbba102b208c9721770ab2f2fe0842b2e86d623e1ae57997",
+  "notes": "FACELY 0.14.5: corrige verificación robusta de firma APK",
   "mandatory": false
 }

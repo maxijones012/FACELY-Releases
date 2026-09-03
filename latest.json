@@ -1,0 +1,8 @@
+{
+  "versionCode": 15,
+  "versionName": "0.13.0",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/latest/download/FACELY.apk",
+  "sha256": "",
+  "notes": "Sistema de actualizaciones de FACELY inicializado.",
+  "mandatory": false
+}

@@ -1,8 +1,8 @@
 {
-  "versionCode": 100191,
-  "versionName": "0.14.2.191",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.2.191/FACELY.apk",
-  "sha256": "24d0cf30bf39231535be946f5e17b20f5f3388335616a2b26163813bbfc025f7",
-  "notes": "FACELY 0.14.2: aporte verificado sin anuncios",
+  "versionCode": 100200,
+  "versionName": "0.14.3.200",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.3.200/FACELY.apk",
+  "sha256": "c789b9b6c25c6fbfcdb8401f4655e009f7682881e63871eb1bdea482c38b1e32",
+  "notes": "FACELY 0.14.3: corrige ListenableFuture con Guava Android",
   "mandatory": false
 }

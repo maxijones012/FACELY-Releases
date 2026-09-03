@@ -1,8 +1,8 @@
 {
-  "versionCode": 100125,
-  "versionName": "0.13.2.125",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.13.2.125/FACELY.apk",
-  "sha256": "605c5294b5a574d464c33367d9cef28eee2b941af32b96994ed2209b79a9752c",
-  "notes": "Usa el icono FACELY como launcher de Android",
+  "versionCode": 100132,
+  "versionName": "0.13.3.132",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.13.3.132/FACELY.apk",
+  "sha256": "d4d19cffde50b4649c45c4233908802b8426d010ad770ad67042351cb5811fb7",
+  "notes": "FACELY 0.13.3: descartados y selección múltiple",
   "mandatory": false
 }

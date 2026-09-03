@@ -1,8 +1,8 @@
 {
-  "versionCode": 100112,
-  "versionName": "0.13.1.112",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.13.1.112/FACELY.apk",
-  "sha256": "bd1a682a2acc4395b7407891b04bf02ae950b47e79b0052f33ea1272e705cfda",
-  "notes": "Compatibiliza pantalla de actualización en Android 8+",
+  "versionCode": 100120,
+  "versionName": "0.13.2.120",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.13.2.120/FACELY.apk",
+  "sha256": "43cef6205f0e114e307117c70fc7f8e0bf12858e3c617276584c4d358a9034e9",
+  "notes": "FACELY 0.13.2: grupos descartados persistentes",
   "mandatory": false
 }

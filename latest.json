@@ -1,8 +1,8 @@
 {
-  "versionCode": 100136,
-  "versionName": "0.13.4.136",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.13.4.136/FACELY.apk",
-  "sha256": "adfcd2617180fdb399b384a818714ca57ef6885f1036af3637ea50ad59cc1878",
-  "notes": "FACELY 0.13.4: posibles mismas personas",
+  "versionCode": 100138,
+  "versionName": "0.13.5.138",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.13.5.138/FACELY.apk",
+  "sha256": "1eefb48873c5d8f31f06e8056bf251bbdc7c7c53a12d1a82e0ec4734e41e4846",
+  "notes": "Corrige DAO del escaneo inteligente",
   "mandatory": false
 }

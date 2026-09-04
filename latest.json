@@ -1,8 +1,8 @@
 {
-  "versionCode": 100225,
-  "versionName": "0.14.5.225",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.225/FACELY.apk",
-  "sha256": "75c6c8b9cea309fdb28704ce94348f2bdcf1ee3a5dad89a1ca1971481c6f3cbb",
-  "notes": "FACELY: conecta Apoyar con el flujo real de Mercado Pago",
+  "versionCode": 100228,
+  "versionName": "0.14.5.228",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.228/FACELY.apk",
+  "sha256": "3f2e6b61b62aabeae46cc5be73e560d199e0373d71eee09010f865674b8513bb",
+  "notes": "FACELY: evita recarga pesada al volver de una persona",
   "mandatory": false
 }

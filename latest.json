@@ -1,8 +1,8 @@
 {
-  "versionCode": 100229,
-  "versionName": "0.14.5.229",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.229/FACELY.apk",
-  "sha256": "635b28f8fe9fd3a8ca1e0bbd3490ed641b2d31a96b49db5bec9372cb4859945c",
-  "notes": "FACELY: acelera sugerencias con índice LSH y caché",
+  "versionCode": 100233,
+  "versionName": "0.14.5.233",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.233/FACELY.apk",
+  "sha256": "87773a8bbb2015a7c5662b7770253d98a726a8e464927ddd5445aaca9bcfc736",
+  "notes": "FACELY: reutiliza resultados de Revisar y cachea índice en disco",
   "mandatory": false
 }

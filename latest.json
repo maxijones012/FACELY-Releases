@@ -1,8 +1,8 @@
 {
-  "versionCode": 100236,
-  "versionName": "0.14.5.236",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.236/FACELY.apk",
-  "sha256": "b3308b89cf1a01c884253cac6084a437de6128537baf05c9d2ab5202645f8b48",
-  "notes": "FACELY: acelera Revisar para bibliotecas grandes",
+  "versionCode": 100247,
+  "versionName": "0.14.5.247",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.247/FACELY.apk",
+  "sha256": "7223da53de32c6d49a1ce299a8a8392cd2fa72a10e6ee98a97d819b879490e50",
+  "notes": "FACELY: laboratorio de motores con escaneos separados para comparar",
   "mandatory": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 100255,
-  "versionName": "0.14.5.255",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.255/FACELY.apk",
-  "sha256": "fe46e538dd98ada03d224b5057ba206c19c5df86a562efc9f2648b266f36ca65",
-  "notes": "FACELY: instala selector visible de motores en inicio",
+  "versionCode": 100256,
+  "versionName": "0.14.5.256",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.256/FACELY.apk",
+  "sha256": "929c6c337e3fbfeb6cbfb8f02420384be0a5860459f011d2a8022c450b0d1640",
+  "notes": "FACELY: acepta batch dinámico del ArcFace UniFace",
   "mandatory": false
 }

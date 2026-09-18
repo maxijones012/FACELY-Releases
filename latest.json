@@ -1,8 +1,8 @@
 {
-  "versionCode": 100256,
-  "versionName": "0.14.5.256",
-  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.256/FACELY.apk",
-  "sha256": "929c6c337e3fbfeb6cbfb8f02420384be0a5860459f011d2a8022c450b0d1640",
-  "notes": "FACELY: acepta batch dinámico del ArcFace UniFace",
+  "versionCode": 100264,
+  "versionName": "0.14.5.264",
+  "apkUrl": "https://github.com/maxijones012/FACELY-Releases/releases/download/v0.14.5.264/FACELY.apk",
+  "sha256": "1eb62e5caab67c1ae855feb0cee5a6a022feac57b906bcab68eef51c7cff7649",
+  "notes": "FACELY: muestra Actualizaciones arriba en Ajustes",
   "mandatory": false
 }
